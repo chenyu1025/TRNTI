@@ -6,7 +6,7 @@
 
 ## 在线体验
 
-👉 [点击开始测试](https://chenyu1025.github.io/SBTI/)
+👉 [点击开始测试](https://chenyu1025.github.io/TRNTI/)
 
 ## 特性
 
@@ -42,8 +42,8 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/chenyu1025/SBTI.git
-cd SBTI
+git clone https://github.com/chenyu1025/TRNTI.git
+cd TRNTI
 
 # 安装依赖
 npm install
