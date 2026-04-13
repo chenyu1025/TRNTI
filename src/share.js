@@ -129,11 +129,11 @@ export async function generateShareImage(primary, userLevels, dimOrder, dimDefs,
   ctx.textAlign = 'center'
   ctx.font = '400 18px system-ui, "PingFang SC", "Microsoft YaHei", sans-serif'
   ctx.fillStyle = '#aab8ac'
-  ctx.fillText('SBTI 人格测试 · 仅供娱乐', W / 2, H - cardY - 24)
+  ctx.fillText('TRNTI 同人女测试 · 仅供娱乐', W / 2, H - cardY - 24)
 
   // 下载
   const link = document.createElement('a')
-  link.download = `SBTI-${primary.code}.png`
+  link.download = `TRNTI-${primary.code}.png`
   link.href = canvas.toDataURL('image/png')
   link.click()
 }
