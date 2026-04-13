@@ -89,7 +89,7 @@ export function determineResult(userLevels, dimOrder, standardTypes, specialType
   rankings.sort((a, b) => a.distance - b.distance || b.exact - a.exact || b.similarity - a.similarity)
 
   const best = rankings[0]
-  const drunk = specialTypes.find((t) => t.code === 'DRUNK')
+  const drunk = specialTypes.find((t) => t.code === 'PSYCHO')
   const hhhh = specialTypes.find((t) => t.code === 'HHHH')
 
   // 酒鬼覆盖
