@@ -6,7 +6,7 @@
 
 ## 在线体验
 
-👉 [点击开始测试](http://localhost:5173/SBTI/) *(请替换为你的实际部署地址)*
+👉 [点击开始测试](https://chenyu1025.github.io/SBTI/)
 
 ## 特性
 
@@ -42,8 +42,8 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/your-username/TRN-Test.git
-cd TRN-Test
+git clone https://github.com/chenyu1025/SBTI.git
+cd SBTI
 
 # 安装依赖
 npm install
